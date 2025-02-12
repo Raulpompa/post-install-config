@@ -17,5 +17,5 @@
 <li>Admin Panel > Agents > Roles</li>
 </ul>
 <p>
-<img src="https://imgur.com/a/NHncz0e" alt="rols 1"/> 
+<img src="https://i.imgur.com/b7DudaQ.png" alt="roles 1"/>
 </p>
