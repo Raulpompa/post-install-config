@@ -16,7 +16,8 @@ This is a great opportunity to gain a deeper understanding of the administrative
 <p align="center"><strong>Unerstanding Agent Panel VS Admin Panel and Configuration Within</strong></p> 
 <h3>Roles</h3>
 <ul>
-<li>Configiuring roles for grouping permissions</li>
+<li>Adding a <strong>Supream Admin</strong> role</li> 
+<li>Configiuring roles for grouping permissions.</li>
 <li>Admin Panel > Agents > Roles</li>
 </ul>
 <p>
