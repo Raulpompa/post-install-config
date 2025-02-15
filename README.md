@@ -1,5 +1,8 @@
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+ <p>This repository is based on an osTicket lab I completed during my IT Course Careers training. I will walk through the step-by-step process I learned for the post-installation setup of osTicket.
+
+This is a great opportunity to gain a deeper understanding of the administrative side of osTicket, including how priorities are assigned. We will be creating different roles, departments, teams, agents (workers), and users (customers). Additionally, I will demonstrate how to configure SLAs (Service Level Agreements) and set up Help Topics.</p>
 </p>
 <h1><strong>osTicket Post Installation Setup</strong></h1>
 <ul>
@@ -19,3 +22,4 @@
 <p>
 <img src="https://i.imgur.com/b7DudaQ.png" alt="roles 1"/>
 </p>
+<p></p>
