@@ -23,4 +23,9 @@ This is a great opportunity to gain a deeper understanding of the administrative
 <p>
 <img src="https://i.imgur.com/b7DudaQ.png" alt="roles 1"/>
 </p>
-<p></p>
+<p>
+<img src="https://i.imgur.com/VGg9IpO.png" alt="roles 2"/>
+</p> 
+<img src="https://i.imgur.com/CknWBS8.png" alt="role 3"/> 
+<img src="https://i.imgur.com/PGWx2wJ.png" alt="role 4"/> 
+<p>The Supreme Admin in osTicket has the highest level of control, allowing full access to system settings, user management, and security configurations. They can override restrictions, customize workflows, manage plugins, and perform critical tasks like backups and updates. This role ensures centralized control over the helpdesk system, preventing unauthorized changes while maintaining smooth operations.</p>
