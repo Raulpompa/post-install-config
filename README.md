@@ -32,5 +32,5 @@ This is a great opportunity to gain a deeper understanding of the administrative
 <h3>Departments</h3>
 <ul>
  <li>Configuring ticket visibility for diffrent departments</li>
- <li>We have to create a <strong>SysAdmin</strong> to oversee everything</li>
+ <li>We have to create a <strong>SysAdmin</strong> to oversee operations</li>
 </ul>
