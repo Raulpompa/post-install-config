@@ -29,3 +29,8 @@ This is a great opportunity to gain a deeper understanding of the administrative
 <img src="https://i.imgur.com/CknWBS8.png" alt="role 3"/> 
 <img src="https://i.imgur.com/PGWx2wJ.png" alt="role 4"/> 
 <p>The Supreme Admin in osTicket has the highest level of control, allowing full access to system settings, user management, and security configurations. They can override restrictions, customize workflows, manage plugins, and perform critical tasks like backups and updates. This role ensures centralized control over the helpdesk system, preventing unauthorized changes while maintaining smooth operations.</p>
+<h3>Departments</h3>
+<ul>
+ <li>Configuring ticket visibility for diffrent departments</li>
+ <li>We have to create a <strong>SysAdmin</strong> to oversee everything</li>
+</ul>
