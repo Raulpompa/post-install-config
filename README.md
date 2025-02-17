@@ -34,3 +34,11 @@ This is a great opportunity to gain a deeper understanding of the administrative
  <li>Configuring ticket visibility for diffrent departments</li>
  <li>We have to create a <strong>SysAdmin</strong> to oversee operations</li>
 </ul>
+<p>
+ <img src="https://i.imgur.com/fs58u2y.png" alt="dep 1"/> 
+ <ul>
+  <li>Admin > Agents > Departments</li>
+  <li>Type SysAdmin for name:</li>
+ </ul>
+</p>
+<img src="https://i.imgur.com/fS1MKJm.png" alt="dep 2"/>
