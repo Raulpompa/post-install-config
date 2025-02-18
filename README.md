@@ -55,3 +55,4 @@ This is a great opportunity to gain a deeper understanding of the administrative
  </ul>
 </p>
 <img src="https://i.imgur.com/awHBMXN.png" alt="Teams 2"/> 
+<h3 style=" color: red;">Allow Anyone to Create Tickets</h3> 
