@@ -42,3 +42,16 @@ This is a great opportunity to gain a deeper understanding of the administrative
  </ul>
 </p>
 <img src="https://i.imgur.com/fS1MKJm.png" alt="dep 2"/>
+<h3>Teams</h3>
+<ul>
+ <li>I'll be adding <strong>Online Banking</strong> to organizing and streamline customer support or internal operations related to online banking services. </li>
+ <li>To assign agents from diffrent departments</li>
+</ul>
+<p>
+ <img src="https://i.imgur.com/uSVfNe9.png" alt="Teams 1"/>
+ <ul>
+  <li>Admin Panel > Agent > Teams</li>
+  <li>Then click <strong>Add New team</strong></li>
+ </ul>
+</p>
+<img src="https://i.imgur.com/awHBMXN.png" alt="Teams 2"/> 
