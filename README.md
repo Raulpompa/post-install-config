@@ -4,6 +4,16 @@
 
 This is a great opportunity to gain a deeper understanding of the administrative side of osTicket, including how priorities are assigned. We will be creating different roles, departments, teams, agents (workers), and users (customers). Additionally, I will demonstrate how to configure SLAs (Service Level Agreements) and set up Help Topics.</p>
 </p>
+<h2>Environments and Technologies Used</h2>
+
+- Microsoft Azure (Virtual Machines/Compute)
+- Remote Desktop
+- osTicket
+
+<h2>Operating Systems Used </h2>
+
+- Windows 10</b> (21H2)
+
 <h1><strong>osTicket Post Installation Setup</strong></h1>
 <ul>
 <h2>Step 1</h2>
