@@ -102,6 +102,15 @@ This is a great opportunity to gain a deeper understanding of the administrative
 </ul>
 <img src="https://i.imgur.com/Hv1QOvL.png" alt="SLAs">
 <img src="https://i.imgur.com/FdWSZ0N.png" alt="SLAs2">
+<h3>Help Topics</h3>
+<p>Last configuration so that users can create tickets.</p>
+<ul>
+ <li>Admin Panel > Manage > Help Topics</li>
+ <li>Business Critical Outage, Personal Computer Issues, Equipment Request, Password Reset, Other</li>
+</ul>
+<img src="https://i.imgur.com/LaC2fc3.png" alt="helpTopics">
+<img src="https://i.imgur.com/R5d2dZq.png" alt="helpTopics2">
+
 
 
 
