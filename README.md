@@ -65,4 +65,27 @@ This is a great opportunity to gain a deeper understanding of the administrative
  </ul>
 </p>
 <img src="https://i.imgur.com/awHBMXN.png" alt="Teams 2"/> 
-<h3 style=" color: red;">Allow Anyone to Create Tickets</h3> 
+<h3 style=" color: red;">Allow Anyone to Create Tickets</h3>
+<ul>
+ <li>Go to Admin Panel > Settings > User Preferences.</li>
+ <li>Under Allow ticket creation by set it to Anyone (this allows even non-registered users to create tickets).</li>
+ <li>Also make sure to <strong>UNCHECK</strong> "Registration Required"</li>
+</ul>
+<img src="https://i.imgur.com/eVCTyQY.png" alt="regir-req"> 
+<h3>Agents</h3>
+<ul>
+ <li>Admin Panel > Agents > Add New</li>
+ <li>Jane as part of the department of <strong>SysAdmins</strong></li>
+ <li>John as part of the department of <strong>Support</strong></li>
+</ul>
+<p>Jane</p>
+<img src="https://i.imgur.com/RSGjWig.png" alt="agentsJ1">
+<img src="https://i.imgur.com/lJP1Qt0.png" alt="agentsJ2">
+<p>I'am also going to add Jane to the Online Banking Team</p>
+<img src="https://i.imgur.com/y6mNA5A.png" alt="agentsJ3">
+<img src="https://i.imgur.com/5YWBGoi.png" alt="agentsJ4">
+<p>Here I'll just add John as a Support Agent</p>
+<img src="https://i.imgur.com/UUqYFEE.png" alt="agentsJn1"> 
+
+
+
