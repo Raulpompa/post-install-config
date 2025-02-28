@@ -86,6 +86,22 @@ This is a great opportunity to gain a deeper understanding of the administrative
 <img src="https://i.imgur.com/5YWBGoi.png" alt="agentsJ4">
 <p>Here I'll just add John as a Support Agent</p>
 <img src="https://i.imgur.com/UUqYFEE.png" alt="agentsJn1"> 
+<h3>Users</h3>
+<ul>
+ <li>Agent Panel > Users > Add New</li>
+ <li>I'll be creating <Strong>Tim</Strong> as our user</li> 
+</ul>
+<img src="https://i.imgur.com/Iv5nzSL.png" alt="userTim">
+<h3>SLA Service Level Agreement</h3>
+<p> Used to define and enforce the response and resolution times for tickets. They help ensure that support teams meet certain expectations for responding to and resolving customer inquiries or issues. SLAs are an essential tool for maintaining service quality and managing customer satisfaction.</p>
+<ul>
+ <li>Admin Panel > Manage > SLA</li>
+ <li>Sev-A with a Grace Period of: 1 hour, and a Schedule of: 24/7</li>
+ <li>Sev-B with a Grace Period of: 4 hours, and a Schedule of: 24/7</li>
+ <li>Sev-C with a Grace Period: 8 hours, During Business Hours</li> 
+</ul>
+<img src="https://i.imgur.com/Hv1QOvL.png" alt="SLAs">
+<img src="https://i.imgur.com/FdWSZ0N.png" alt="SLAs2">
 
 
 
